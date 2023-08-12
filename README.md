@@ -4,7 +4,7 @@ Heart Attack Prediction using Machine Learning algorithms
 #### I am a recently Graduated in Data Science stream
 I am a recently graduate looking for an entry level job in Data Science stream. I had a good score at my studies. I have a good programming skills on python, java, basics of C, HTML, CSS, SQL. I have done a pilot project on checking whether the patient is likely to be diagnosed with any cardiovascular heart diseases based on their medical attributes such as gender, age, chest pain, fasting sugar level using Machine Learning algorithms and python packages. scikit-learn / StandardScaler library /  model_selection library / pandas / Numpy / KNeighborsClassifer Algorithm / matplotlib / Pyplot library / seaborn / accuracy_score library / confusion matrix /  count plots. I have used Jupyter Notebook and kaggle dataset.
 
-Skills:  I have a good programming knowledge on python, java, basics of C, HTML, CSS, SQL. 
+Skills:  I have a good programming knowledge on python, java, basics of C, HTML, CSS, SQL. Technologies:Hadoop,Bigdata 
 
 - 🔭 I’m currently working on Searching for an entry level job 
 - 🌱 I’m currently learning Data Science 
