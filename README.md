@@ -14,7 +14,7 @@ This is my pilot project on checking whether the patient is likely to be diagnos
 * numpy
 * pandas
 * matplotlib
-* scikit-learn,
+* scikit-learn
 * Seaborn
 
 Install missing dependencies using [pip](https://pip.pypa.io/en/stable/)
